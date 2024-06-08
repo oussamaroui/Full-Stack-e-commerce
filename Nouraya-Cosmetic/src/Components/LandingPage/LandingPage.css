@@ -1,0 +1,12 @@
+/* LandingPage.css */
+.aya {
+  text-decoration: none;
+  color: black;
+}
+
+.aya:hover {
+  color: white;
+  background-color: rgb(220, 82, 105);
+  border-radius: 5px;
+  padding: 10px;
+}
